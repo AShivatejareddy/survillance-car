@@ -7,8 +7,9 @@ An IoT-based smart surveillance vehicle that provides **real-time video streamin
 ## 📸 Project Photos
 
 <p align="center">
-  <img src="Images/Project_Photos/YOUR_IMAGE_NAME_1.jpg" width="300">
-  <img src="Images/Project_Photos/YOUR_IMAGE_NAME_2.jpg" width="300">
+  <img src="Images/Project_Photos/car_front.jpg" width="300">
+  <img src="Images/Project_Photos/car_side.jpg" width="300">
+  <img src="Images/Project_Photos/car_top.jpg" width="300">
 </p>
 
 ---
