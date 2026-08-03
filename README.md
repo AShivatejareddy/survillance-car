@@ -65,7 +65,69 @@ An IoT-based smart surveillance vehicle that provides **real-time video streamin
 
 The ESP32-CAM creates a Wi-Fi web server that hosts a control dashboard. A user connects to the ESP32-CAM through a web browser to view the live camera stream and control the vehicle. The L298N motor driver receives movement commands from the ESP32-CAM to drive the motors, while the camera continuously streams video for real-time surveillance.
 ---
+---
 
+## 📂 Folder Structure
+
+```
+survillance-car/
+│
+├── Arduino_Code/              # ESP32-CAM source code
+├── Images/
+│   ├── Project_Photos/
+│   ├── Circuit_Diagram/
+│   ├── Block_Diagram/
+│   └── Web_Interface/
+├── README.md
+└── code.docx
+```
+---
+
+## 🚀 Installation
+
+1. Clone this repository.
+2. Open the project in Arduino IDE.
+3. Install the ESP32 Board Package.
+4. Select **AI Thinker ESP32-CAM**.
+5. Connect the ESP32-CAM using an FTDI programmer.
+6. Upload the code.
+7. Connect to the ESP32-CAM Wi-Fi network.
+8. Open the IP address shown in the Serial Monitor.
+9. Control the vehicle through the web interface.
+---
+---
+
+## 🎯 Applications
+
+- 🏠 Home Security
+- 🏭 Industrial Surveillance
+- 🚨 Disaster Area Inspection
+- 🌾 Agricultural Monitoring
+- 🏢 Warehouse Monitoring
+- 🎓 Robotics Learning
+- 🔬 Research Projects
+- ---
+
+## 🔮 Future Enhancements
+
+- Face Recognition
+- Object Detection using AI
+- Mobile App Control
+- Cloud Video Storage
+- GPS Tracking
+- Obstacle Avoidance
+- Night Vision Camera
+---
+
+## 👨‍💻 Author
+
+**A. Shiva Teja Reddy**
+
+Electronics and Communication Engineering (ECE)
+
+CVR College of Engineering
+
+GitHub: https://github.com/AShivatejareddy
 ## ✨ Features
 
 - 📷 Live video streaming
