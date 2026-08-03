@@ -1,7 +1,24 @@
-## Project Objective
+# 🚗 IoT Surveillance Car Using ESP32-CAM
 
-The main objective of this project is to develop an intelligent surveillance vehicle capable of providing real-time monitoring and remote navigation. The surveillance car is designed using an ESP32-CAM module, motor driver, and wireless communication technology to enable users to control the vehicle and view live video footage from a remote location.
+An IoT-based smart surveillance vehicle that provides **real-time video streaming** and **wireless remote control** using the ESP32-CAM module. The vehicle is controlled through a web browser over Wi-Fi and is designed for surveillance, security monitoring, and remote inspection.
 
-The system helps improve security and monitoring in areas where continuous human presence is difficult, risky, or inefficient. By integrating camera-based surveillance with wireless control, the vehicle can be used for home security, industrial monitoring, warehouse inspection, and restricted-area surveillance.
+---
 
-The project also serves as a foundation for advanced technologies such as artificial intelligence, computer vision, motion detection, face recognition, cloud monitoring, and GPS-based tracking. The ultimate goal is to create a cost-effective, portable, and scalable surveillance solution for real-world applications.
+## 📸 Project Photos
+
+<p align="center">
+  <img src="Images/Project_Photos/YOUR_IMAGE_NAME_1.jpg" width="300">
+  <img src="Images/Project_Photos/YOUR_IMAGE_NAME_2.jpg" width="300">
+</p>
+
+---
+
+## ✨ Features
+
+- 📷 Live video streaming
+- 🚗 Wireless vehicle control
+- 🌐 Web-based interface
+- ⚡ PWM motor speed control
+- 💡 LED Flash support
+- 📡 Wi-Fi communication
+- 🔋 Battery powered
