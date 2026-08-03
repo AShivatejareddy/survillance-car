@@ -7,11 +7,16 @@ An IoT-based smart surveillance vehicle that provides **real-time video streamin
 ## 📸 Project Photos
 
 <p align="center">
-  <img src="Images/Project_Photos/car_front.jpg" width="300">
-  <img src="Images/Project_Photos/car_side.jpg" width="300">
-  <img src="Images/Project_Photos/car_top.jpg" width="300">
+  <img src="Images/Project_Photos/car_front.jpeg" width="300" alt="Front View">
+  <img src="Images/Project_Photos/car_side.jpeg" width="300" alt="Side View">
+  <img src="Images/Project_Photos/car_top.jpeg" width="300" alt="Top View">
 </p>
+---
+## 🔌 Circuit Diagram
 
+<p align="center">
+  <img src="Images/Circuit_Diagram/Camera Car.png" width="700" alt="Circuit Diagram">
+</p>
 ---
 
 ## ✨ Features
